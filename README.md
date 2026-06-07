@@ -50,7 +50,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hindsight-memory-app.git
+git clone https://github.com/Kanishk182004/hindsight-memory-app.git
 cd hindsight-memory-app
 ```
 
