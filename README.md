@@ -1,4 +1,4 @@
-# Hindsight Memory Application
+# Hindsight Document Memory
 
 A simple Python application that demonstrates document ingestion and memory-powered question answering using Hindsight.
 
@@ -23,8 +23,7 @@ The application loads PDF and TXT documents, stores them in a Hindsight memory b
 ```text
 .
 ├── data/
-│   ├── sample.pdf
-│   └── sample.txt
+│   └── d1.txt
 ├── main.py
 ├── requirements.txt
 ├── .env.example
@@ -41,7 +40,7 @@ Before running this project, make sure you have:
 * Python 3.10+
 * Hindsight installed
 * A Hindsight Memory Bank
-* Gemini API Key (or another supported provider)
+* API key for any supported provider (Gemini, OpenAI, Groq, Anthropic, etc.)
 
 ---
 
@@ -50,8 +49,8 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kanishk182004/hindsight-memory-app.git
-cd hindsight-memory-app
+git clone https://github.com/Kanishk182004/hindsight-document-memory.git
+cd hindsight-document-memory
 ```
 
 ### 2. Create a Virtual Environment
@@ -305,4 +304,4 @@ MIT License
 
 ## Acknowledgements
 
-Built using Hindsight Memory Infrastructure and Google's Gemini models.
+Built using Hindsight Memory Infrastructure. Compatible with Gemini, OpenAI, Groq, Anthropic, DeepSeek, and other supported providers.
