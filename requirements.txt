@@ -1,0 +1,5 @@
+hindsight-all
+hindsight-client
+hindsight-api
+python-dotenv
+pypdf

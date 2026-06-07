@@ -1,0 +1,15 @@
+Sarah spent 5 years building e-commerce UIs using React and TypeScript.
+
+Over time, she became frustrated with only working on frontend interfaces.
+
+In late 2023, Sarah started reading research papers about transformers and LLMs.
+
+She began experimenting with Python, LangChain, and vector databases during weekends.
+
+By mid-2024, Sarah transitioned into an internal AI tooling team.
+
+Her coworkers noticed she preferred solving reasoning and automation problems rather than UI styling.
+
+Sarah recently stopped contributing to frontend repositories.
+
+She now spends most of her time optimizing retrieval systems and agent workflows.
